@@ -7,7 +7,6 @@ public class SingleHungry {
    private static final SingleHungry INSTANCE = new SingleHungry();
 
    private SingleHungry(){
-
    }
 
    public static SingleHungry getInstance(){

@@ -1,6 +1,7 @@
 package com.designPattern.proxy.cglib;
 
-import net.sf.cglib.proxy.Enhancer;
+
+import org.springframework.cglib.proxy.Enhancer;
 
 public class CgDemo {
     public static void main(String[] args) {
