@@ -14,4 +14,6 @@ public class CgDemo {
         SubClaz subProxy = (SubClaz) enhancer.create();
         subProxy.say();
     }
+
+
 }
